@@ -40,7 +40,7 @@
     [self initView];
 	
     //self.view.backgroundColor = [UIColor lightGrayColor];
-    
+    //test .... 
     //init global info data
     _GET_APP_DELEGATE_(appDelegate);
     GlobalInfo *globoinfo = [[GlobalInfo alloc] init];
