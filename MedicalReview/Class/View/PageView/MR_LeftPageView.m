@@ -15,6 +15,7 @@
     self = [super initWithFrame:frame];
     if (self) {
         // Initialization code
+        //I can edit this file .... BY YF-2013
     }
     return self;
 }
